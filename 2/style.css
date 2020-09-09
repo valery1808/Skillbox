@@ -1,0 +1,14 @@
+
+.main-content {
+  background-color: #222020;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-content h1 {
+  color: white;
+  font-family: 'Graphik LCG' sans-serif;
+  padding-bottom: 30px;
+}
